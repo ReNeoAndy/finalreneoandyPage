@@ -61,7 +61,7 @@ const AboutSection = () => {
     />
             </div>
             <p>
-            From an early age, I have always been interested in technology and its ability to transform the world. I pursued a degree in Computer Science from "UNAM, Facultad de Ciencias"
+            From an early age, I have always been interested in technology and its ability to transform the world. I pursued a degree in Computer Science from UNAM, Facultad de Ciencias
 
             </p>
             <br />
